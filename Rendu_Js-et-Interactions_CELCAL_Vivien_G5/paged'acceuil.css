@@ -1,0 +1,246 @@
+body{
+    margin: 10px 0 ;
+    padding: 0 ;
+    text-align: center ;
+}
+
+div#conteneur
+{
+    width: 770px ;
+    margin: 0 auto ;
+    text-align: left ;
+}
+
+h1#header
+{
+    height: 258px ;
+}
+
+pre
+{
+    overflow: auto ;
+}
+
+body
+{
+	margin: 10px 0 ;
+	padding: 0 ;
+	text-align: center ;
+	font: 0.8em "Trebuchet MS", helvetica, sans-serif ;
+	background: rgb(58, 58, 58) ;
+}
+
+div#conteneur
+{
+	width: 770px ;
+	margin: 0 auto ;
+	text-align: left ;
+	border: 2px solid #ab4 ;
+	background: rgb(39, 46, 91) ;
+}
+
+h1#header
+{
+	height: 258px;
+	background: url(https://www.google.com/search?sca_esv=be1f4daf33da1a0f&rlz=1C1ONGR_frFR1022FR1022&sxsrf=ACQVn0_yJLJ6B3IdOinzJKQgMz771QP4sQ:1706722777194&q=logo&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjIhfXmlYiEAxWqT6QEHUP3DpMQ0pQJegQICxAB&biw=1536&bih=730&dpr=1.25#imgrc=abzwmi7rHHyqsM) no-repeat left top;
+}
+
+div#contenu
+{
+	padding: 0 30px 0 100px ;
+	background: url(CgNpbWcQAzIECCMQJzIECCMQJzINCAAQgAQQigUQQxCxAzIKCAAQgAQQigUQQzINCAAQgAQQigUQQxCxAzINCAAQgAQQigUQQxCxAzINCAAQgAQQigUQQxCxAzINCAAQgAQQigUQQxCxAzINCAAQgAQQigUQQxCxAzINCAAQgAQQigUQQxCxAzoICAAQgAQQsQM6BwgjEOoCECc6BQgAEIAEUL4FWJ0VYL0YaAFwAHgAgAFyiAGlBZIBAzkuMZgBAKABAaoBC2d3cy13aXotaW1nsAEKwAEB) no-repeat 15px 15px ;
+}
+
+div#contenu h2
+{
+	padding-left: 25px ;
+	line-height: 25px ;
+	font-size: 1.4em ;
+	background: url(https://www.google.com/search?q=dessin&tbm=isch&ved=2ahUKEwjn6ubylYiEAxXskScCHVMuAscQ2-cCegQIABAA&oq=dessin&gs_lcp=CgNpbWcQAzIECCMQJzIECCMQJzINCAAQgAQQigUQQxCxAzIKCAAQgAQQigUQQzINCAAQgAQQigUQQxCxAzINCAAQgAQQigUQQxCxAzINCAAQgAQQigUQQxCxAzINCAAQgAQQigUQQxCxAzINCAAQgAQQigUQQxCxAzINCAAQgAQQigUQQxCxAzoICAAQgAQQsQM6BwgjEOoCECc6BQgAEIAEUL4FWJ0VYL0YaAFwAHgAgAFyiAGlBZIBAzkuMZgBAKABAaoBC2d3cy13aXotaW1nsAEKwAEB&sclient=img&ei=8oW6ZeepB-yjnsEP09yIuAw&bih=730&biw=1536&rlz=1C1ONGR_frFR1022FR1022#imgrc=_vStrX-YbHdBtM) no-repeat left bottom ;
+	color: rgb(11, 11, 11) ;
+	border-bottom: 1px solid rgb(11, 11, 11) ;
+}
+
+div#contenu h3
+{
+	margin-left: 15px ;
+	padding-left: 5px ;
+	border-bottom: 1px solid rgb(11, 11, 11) ;
+	border-left: 3px solid rgb(11, 11, 11) ;
+	color: rgb(11, 11, 11) ;
+}
+
+div#contenu p
+{
+	text-align: justify ;
+	text-indent: 2em ;
+	line-height: 1.7em ;
+}
+
+div#contenu a
+{
+	color: #8a0 ;
+}
+
+div#contenu a:hover
+{
+	color: rgb(11, 11, 11);
+}
+
+pre
+{
+	overflow: auto ;
+	background: rgb(244, 195, 105) ;
+	border: 2px solid rgb(11, 11, 11) ;
+	padding: 5px 0 0 5px ;
+	font-size: 1.2em ;
+}
+
+pre span
+{
+	color: #560 ;
+}
+
+pre span.comment
+{
+	color: #b30000 ;
+}
+
+body
+{
+	margin: 10px 0 ;
+	padding: 0 ;
+	text-align: center ;
+	font: 0.8em "Trebuchet MS", helvetica, sans-serif ;
+	background: rgb(244, 195, 105) ;
+}
+
+div#conteneur
+{
+	width: 770px ;
+	margin: 0 auto ;
+	text-align: left ;
+	border: 2px solid #ab4 ;
+	background: rgb(240, 240, 244) ;
+}
+
+h1#header
+{
+	height: 258px ;
+	margin: 0 ;
+}
+
+h1#header a
+{
+	width: 400px ;
+	height: 70px ;
+	display: block ;
+	background: url(title.gif) no-repeat ;
+	position: relative ;
+	left: 350px ;
+	top: 15px ;
+	text-indent: -5000px ;
+}
+
+ul#menu
+{
+	height: 35px ;
+	margin: 0 ;
+	padding: 0 ;
+	background: url(bg_menu.gif) repeat-x 0 -25px ;
+	list-style-type: none ;
+}
+
+ul#menu li
+{
+	float: left ;
+	text-align: center ;
+}
+
+ul#menu li a
+{
+	width: 130px ;
+	line-height: 25px ;
+	font-size: 1.2em ;
+	font-weight: bold ;
+	letter-spacing: 2px ;
+	color: rgb(39, 46, 91) ;
+	display: block ;
+	text-decoration: none ;
+	border-right: 2px solid rgb(244, 195, 105) ;
+}
+
+ul#menu li a:hover
+{
+	background: url(bg_menu.gif) repeat-x 0 0 ;
+}
+
+div#contenu
+{
+	padding: 0 25px 0 100px ;
+	background: url(bg_page.gif) no-repeat 15px 15px ;
+}
+
+div#contenu h2
+{
+	padding-left: 25px ;
+	line-height: 25px ;
+	font-size: 1.4em ;
+	background: url(https://www.google.com/search?q=dessin&tbm=isch&ved=2ahUKEwjn6ubylYiEAxXskScCHVMuAscQ2-cCegQIABAA&oq=dessin&gs_lcp=CgNpbWcQAzIECCMQJzIECCMQJzINCAAQgAQQigUQQxCxAzIKCAAQgAQQigUQQzINCAAQgAQQigUQQxCxAzINCAAQgAQQigUQQxCxAzINCAAQgAQQigUQQxCxAzINCAAQgAQQigUQQxCxAzINCAAQgAQQigUQQxCxAzINCAAQgAQQigUQQxCxAzoICAAQgAQQsQM6BwgjEOoCECc6BQgAEIAEUL4FWJ0VYL0YaAFwAHgAgAFyiAGlBZIBAzkuMZgBAKABAaoBC2d3cy13aXotaW1nsAEKwAEB&sclient=img&ei=8oW6ZeepB-yjnsEP09yIuAw&bih=730&biw=1536&rlz=1C1ONGR_frFR1022FR1022#imgrc=nsZEraFc_4OFtM) no-repeat left bottom ;
+	color: rgb(11, 11, 11) ;
+	border-bottom: 1px solid rgb(11, 11, 11) ;
+}
+
+div#contenu h3
+{
+	margin-left: 15px ;
+	padding-left: 5px ;
+	border-bottom: 1px solid rgb(11, 11, 11) ;
+	border-left: 3px solid rgb(11, 11, 11) ;
+	color: rgb(11, 11, 11) ;
+}
+
+div#contenu p
+{
+	text-align: justify ;
+	text-indent: 2em ;
+	line-height: 1.7em ;
+}
+
+div#contenu a
+{
+	color: #8a0 ;
+}
+
+div#contenu a:hover
+{
+	color: rgb(11, 11, 11) ;
+}
+
+p#footer
+{
+	margin: 0 ;
+	padding-right: 10px ;
+	line-height: 30px ;
+	text-align: right ;
+	color: #8a0 ;
+}
+
+pre
+{
+	overflow: auto ;
+	background: #dea ;
+	border: 2px solid rgb(11, 11, 11) ;
+	padding: 5px 0 0 5px ;
+	font-size: 1.2em ;
+}
+
+pre span
+{
+	color: #560 ;
+}
+
+pre span.comment
+{
+	color: #b30000 ;
+}

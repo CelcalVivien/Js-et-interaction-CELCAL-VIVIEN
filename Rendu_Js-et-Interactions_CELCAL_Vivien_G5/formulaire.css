@@ -1,0 +1,26 @@
+body.error {
+    animation: multicolorBlink 5s; /* Animation multicolore du fond en cas d'erreur */
+}
+
+@keyframes multicolorBlink {
+    100% {
+        background-color: #ff0000; /* Rouge */
+    }
+}
+
+.error {
+    color: red;
+    animation: blink 0.6s infinite; /* Animation pour faire clignoter en rouge */
+}
+
+.error-input {
+    border: 1px solid red;
+    background-color: red;
+    animation: blink 0.6s infinite; /* Animation pour faire clignoter en rouge */
+}
+
+
+
+
+
+
